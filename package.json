@@ -43,8 +43,10 @@
     "on-finished": "^2.3.0",
     "only": "~0.0.2",
     "parseurl": "^1.3.2",
+    "path-to-regexp": "^3.0.0",
     "statuses": "^1.5.0",
     "type-is": "^1.6.16",
+    "urijs": "^1.19.1",
     "vary": "^1.1.2"
   },
   "devDependencies": {
